@@ -184,3 +184,14 @@ D:\Documents\GitHub\rights\Rights\BLL\bin\Debug\IBLL.pdb
 D:\Documents\GitHub\rights\Rights\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
 D:\Documents\GitHub\rights\Rights\BLL\obj\Debug\BLL.dll
 D:\Documents\GitHub\rights\Rights\BLL\obj\Debug\BLL.pdb
+E:\File\Project\OpenSource\DevFrame\LangBen\rights\Rights\BLL\bin\Debug\BLL.dll
+E:\File\Project\OpenSource\DevFrame\LangBen\rights\Rights\BLL\bin\Debug\BLL.pdb
+E:\File\Project\OpenSource\DevFrame\LangBen\rights\Rights\BLL\bin\Debug\Common.dll
+E:\File\Project\OpenSource\DevFrame\LangBen\rights\Rights\BLL\bin\Debug\DAL.dll
+E:\File\Project\OpenSource\DevFrame\LangBen\rights\Rights\BLL\bin\Debug\IBLL.dll
+E:\File\Project\OpenSource\DevFrame\LangBen\rights\Rights\BLL\bin\Debug\Common.pdb
+E:\File\Project\OpenSource\DevFrame\LangBen\rights\Rights\BLL\bin\Debug\DAL.pdb
+E:\File\Project\OpenSource\DevFrame\LangBen\rights\Rights\BLL\bin\Debug\IBLL.pdb
+E:\File\Project\OpenSource\DevFrame\LangBen\rights\Rights\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+E:\File\Project\OpenSource\DevFrame\LangBen\rights\Rights\BLL\obj\Debug\BLL.dll
+E:\File\Project\OpenSource\DevFrame\LangBen\rights\Rights\BLL\obj\Debug\BLL.pdb

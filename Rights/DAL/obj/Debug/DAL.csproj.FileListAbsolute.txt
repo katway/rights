@@ -155,3 +155,11 @@ D:\Documents\GitHub\rights\Rights\DAL\bin\Debug\Common.pdb
 D:\Documents\GitHub\rights\Rights\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
 D:\Documents\GitHub\rights\Rights\DAL\obj\Debug\DAL.dll
 D:\Documents\GitHub\rights\Rights\DAL\obj\Debug\DAL.pdb
+E:\File\Project\OpenSource\DevFrame\LangBen\rights\Rights\DAL\bin\Debug\DAL.dll.config
+E:\File\Project\OpenSource\DevFrame\LangBen\rights\Rights\DAL\bin\Debug\DAL.dll
+E:\File\Project\OpenSource\DevFrame\LangBen\rights\Rights\DAL\bin\Debug\DAL.pdb
+E:\File\Project\OpenSource\DevFrame\LangBen\rights\Rights\DAL\bin\Debug\Common.dll
+E:\File\Project\OpenSource\DevFrame\LangBen\rights\Rights\DAL\bin\Debug\Common.pdb
+E:\File\Project\OpenSource\DevFrame\LangBen\rights\Rights\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\File\Project\OpenSource\DevFrame\LangBen\rights\Rights\DAL\obj\Debug\DAL.dll
+E:\File\Project\OpenSource\DevFrame\LangBen\rights\Rights\DAL\obj\Debug\DAL.pdb

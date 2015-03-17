@@ -69,3 +69,8 @@ D:\Documents\GitHub\rights\Rights\Common\bin\Debug\Common.dll
 D:\Documents\GitHub\rights\Rights\Common\bin\Debug\Common.pdb
 D:\Documents\GitHub\rights\Rights\Common\obj\Debug\Common.dll
 D:\Documents\GitHub\rights\Rights\Common\obj\Debug\Common.pdb
+E:\File\Project\OpenSource\DevFrame\LangBen\rights\Rights\Common\bin\Debug\Common.dll
+E:\File\Project\OpenSource\DevFrame\LangBen\rights\Rights\Common\bin\Debug\Common.pdb
+E:\File\Project\OpenSource\DevFrame\LangBen\rights\Rights\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+E:\File\Project\OpenSource\DevFrame\LangBen\rights\Rights\Common\obj\Debug\Common.dll
+E:\File\Project\OpenSource\DevFrame\LangBen\rights\Rights\Common\obj\Debug\Common.pdb
