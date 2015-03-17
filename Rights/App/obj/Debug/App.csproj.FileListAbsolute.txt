@@ -102,7 +102,6 @@ E:\File\Project\OpenSource\DevFrame\LangBen\rights\Rights\App\obj\Debug\App.pdb
 E:\File\Project\OpenSource\DevFrame\LangBen\rights\Rights\App\bin\App.dll.config
 E:\File\Project\OpenSource\DevFrame\LangBen\rights\Rights\App\bin\App.dll
 E:\File\Project\OpenSource\DevFrame\LangBen\rights\Rights\App\bin\App.pdb
-E:\File\Project\OpenSource\DevFrame\LangBen\rights\Rights\App\bin\Antlr3.Runtime.dll
 E:\File\Project\OpenSource\DevFrame\LangBen\rights\Rights\App\bin\BLL.dll
 E:\File\Project\OpenSource\DevFrame\LangBen\rights\Rights\App\bin\Common.dll
 E:\File\Project\OpenSource\DevFrame\LangBen\rights\Rights\App\bin\DAL.dll
@@ -112,19 +111,7 @@ E:\File\Project\OpenSource\DevFrame\LangBen\rights\Rights\App\bin\ICSharpCode.Sh
 E:\File\Project\OpenSource\DevFrame\LangBen\rights\Rights\App\bin\Microsoft.QualityTools.Testing.Fakes.dll
 E:\File\Project\OpenSource\DevFrame\LangBen\rights\Rights\App\bin\Microsoft.Web.Infrastructure.dll
 E:\File\Project\OpenSource\DevFrame\LangBen\rights\Rights\App\bin\Newtonsoft.Json.dll
-E:\File\Project\OpenSource\DevFrame\LangBen\rights\Rights\App\bin\NPOI.dll
-E:\File\Project\OpenSource\DevFrame\LangBen\rights\Rights\App\bin\NPOI.OOXML.dll
-E:\File\Project\OpenSource\DevFrame\LangBen\rights\Rights\App\bin\NPOI.OpenXml4Net.dll
-E:\File\Project\OpenSource\DevFrame\LangBen\rights\Rights\App\bin\NPOI.OpenXmlFormats.dll
-E:\File\Project\OpenSource\DevFrame\LangBen\rights\Rights\App\bin\System.Web.Helpers.dll
-E:\File\Project\OpenSource\DevFrame\LangBen\rights\Rights\App\bin\System.Web.Mvc.dll
-E:\File\Project\OpenSource\DevFrame\LangBen\rights\Rights\App\bin\System.Web.Optimization.dll
 E:\File\Project\OpenSource\DevFrame\LangBen\rights\Rights\App\bin\System.Web.Optimization.Less.dll
-E:\File\Project\OpenSource\DevFrame\LangBen\rights\Rights\App\bin\System.Web.Razor.dll
-E:\File\Project\OpenSource\DevFrame\LangBen\rights\Rights\App\bin\System.Web.WebPages.Deployment.dll
-E:\File\Project\OpenSource\DevFrame\LangBen\rights\Rights\App\bin\System.Web.WebPages.dll
-E:\File\Project\OpenSource\DevFrame\LangBen\rights\Rights\App\bin\System.Web.WebPages.Razor.dll
-E:\File\Project\OpenSource\DevFrame\LangBen\rights\Rights\App\bin\WebGrease.dll
 E:\File\Project\OpenSource\DevFrame\LangBen\rights\Rights\App\bin\BLL.pdb
 E:\File\Project\OpenSource\DevFrame\LangBen\rights\Rights\App\bin\Common.pdb
 E:\File\Project\OpenSource\DevFrame\LangBen\rights\Rights\App\bin\DAL.pdb
