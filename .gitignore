@@ -50,8 +50,10 @@ _ReSharper*/
 
 
 Rights/App/bin/
+Rights/App/obj/
 Rights/BLL/bin/
 Rights/Common/obj/
 Rights/DAL/bin/
 Rights/IBLL/bin/
+
 
