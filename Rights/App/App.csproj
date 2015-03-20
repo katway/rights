@@ -155,6 +155,7 @@
     <Compile Include="Controllers\FileUploaderController.cs" />
     <Compile Include="Controllers\HomeRightController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
+    <Compile Include="Controllers\LawCaseController.cs" />
     <Compile Include="Controllers\SysAnnouncementController.cs" />
     <Compile Include="Controllers\SysDepartmentController.cs" />
     <Compile Include="Controllers\SysDepartmentTreeController.cs" />
@@ -182,7 +183,10 @@
     <Compile Include="HtmlHelper\Easyui.cs" />
     <Compile Include="HtmlHelper\RadioButtonListHelper.cs" />
     <Compile Include="Models\BaseException.cs" />
-    <Compile Include="Models\EmptyClass.cs" />
+    <Compile Include="Models\BusinessDBContext.cs" />
+    <Compile Include="Models\EntityBase.cs" />
+    <Compile Include="Models\LawCase.cs" />
+    <Compile Include="Models\Sample.cs" />
     <Compile Include="Models\SysDepartmentTreeModel.cs" />
     <Compile Include="Models\SysFieldTreeModel.cs" />
     <Compile Include="Models\SysMenuTreeModel.cs" />
@@ -911,7 +915,9 @@
     <Content Include="Views\SysNotice\Index.cshtml" />
     <Content Include="Views\Web.config" />
     <Content Include="Views\_ViewStart.cshtml" />
-    <Content Include="Web.config" />
+    <Content Include="Web.config">
+      <SubType>Designer</SubType>
+    </Content>
     <Content Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </Content>
@@ -983,6 +989,11 @@
     <Content Include="Views\SysMessage\Edit.cshtml" />
     <Content Include="Views\SysMessage\Index.cshtml" />
     <Content Include="Views\SysRole\SetSysMenu.cshtml" />
+    <Content Include="Views\LawCase\Create.cshtml" />
+    <Content Include="Views\LawCase\Delete.cshtml" />
+    <Content Include="Views\LawCase\Details.cshtml" />
+    <Content Include="Views\LawCase\Edit.cshtml" />
+    <Content Include="Views\LawCase\Index.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\BLL\BLL.csproj">
